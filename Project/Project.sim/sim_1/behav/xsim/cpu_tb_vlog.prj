@@ -1,0 +1,32 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../Code/ADR.v" \
+"../../../../../Code/ALU.v" \
+"../../../../../Code/ALUoutDR.v" \
+"../../../../../Code/BDR.v" \
+"../../../../../Code/ControlUnit.v" \
+"../../../../../Code/DBDR.v" \
+"../../../../../Code/DFlipFlop.v" \
+"../../../../../Code/DataMEM.v" \
+"../../../../../Code/DataSelector_2to1.v" \
+"../../../../../Code/DataSelector_2to1_sa.v" \
+"../../../../../Code/DataSelector_3to1.v" \
+"../../../../../Code/DataSelector_4to1.v" \
+"../../../../../Code/IR.v" \
+"../../../../../Code/InstructionMEM.v" \
+"../../../../../Code/Main.v" \
+"../../../../../Code/NextState.v" \
+"../../../../../Code/OutputFunc.v" \
+"../../../../../Code/PC.v" \
+"../../../../../Code/PCAddFour.v" \
+"../../../../../Code/PCAddImm.v" \
+"../../../../../Code/PCJump.v" \
+"../../../../../Code/RegFile.v" \
+"../../../../../Code/SignExtend.v" \
+"../../../../../Code/cpu_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

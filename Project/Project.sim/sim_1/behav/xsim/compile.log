@@ -1,0 +1,51 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/ADR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ADR
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/ALUoutDR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALUoutDR
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/BDR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BDR
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/ControlUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ControlUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/DBDR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DBDR
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/DFlipFlop.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DFlipFlop
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/DataMEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DataMEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/DataSelector_2to1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DataSelector_2to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/DataSelector_2to1_sa.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DataSelector_2to1_sa
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/DataSelector_3to1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DataSelector_3to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/DataSelector_4to1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DataSelector_4to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/IR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IR
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/InstructionMEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InstructionMEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/Main.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Main
+INFO: [VRFC 10-2458] undeclared symbol ALUSrcA, assumed default net type wire [E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/Main.v:38]
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/NextState.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NextState
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/OutputFunc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module OutputFunc
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/PCAddFour.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PCAddFour
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/PCAddImm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PCAddImm
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/PCJump.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PCJump
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/RegFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/SignExtend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SignExtend
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Code/cpu_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Courses/Computer_Organization/MultiCycleCPU/MultiCycleCPU/Project/Project.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
